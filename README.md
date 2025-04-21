@@ -11,7 +11,7 @@ This site showcases my skills, projects, and ways to connect with me. It's desig
 
 ## 🖥️ Live Demo
 
-🔗 [View Portfolio Online](https://yuvrajmunjal9.github.io/portfolio2)
+🔗 [View Portfolio Online](https://v0-portfolio-beige-delta.vercel.app/)
 
 ---
 
